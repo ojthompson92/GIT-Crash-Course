@@ -2,10 +2,6 @@
 
 This is the first file in this repo.
 
-## Double Hash for second level header
+## Website Contents
 
-Text under second level header
-
-## Another second level header
-
-Even more text
+1. index.html
